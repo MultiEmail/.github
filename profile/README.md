@@ -76,3 +76,7 @@ Here are some links that are associated with MultiEmail:
     </tr>
   </tfoot>
 </table>
+
+# Contributing
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
