@@ -40,6 +40,7 @@ Project to manage multiple emails at once with lots of customization. You can se
 - [Mongoose / typegoose](https://typegoose.github.io/typegoose/)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [React](https://reactjs.org/)
+- [Tailwind css](https://tailwindcss.com/)
 
 ## Links
 
