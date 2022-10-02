@@ -49,8 +49,3 @@ Here are some links that are associated with MultiEmail:
 - [Discord](https://discord.gg/multiemail 'Link to the official Discord Server.')
 - [Twitter](https://twitter.com/multiemail 'Link to the official Twitter.')
 - [Website](https://multiemail.us/ 'Link to the official Website.')
-
-
-# Contributing
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
