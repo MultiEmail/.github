@@ -1,7 +1,7 @@
 # Multi Email
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1025761420475904080/1026074097098174515/icon-transparent.png"/>
+  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/1025761420475904080/1026074097098174515/icon-transparent.png"/>
 </div>
 
 <div align="center">
