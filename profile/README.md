@@ -46,6 +46,6 @@ Project to manage multiple emails at once with lots of customization. You can se
 
 Here are some links that are associated with MultiEmail:
 
-- [Discord](https://discord.gg/multiemail 'Link to the official Discord Server.')
+- [Discord](https://discord.gg/gkvCYzRKEB 'Link to the official Discord Server.')
 - [Twitter](https://twitter.com/multiemail 'Link to the official Twitter.')
 - [Website](https://multiemail.us/ 'Link to the official Website.')
