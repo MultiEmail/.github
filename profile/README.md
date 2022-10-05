@@ -32,7 +32,6 @@ Project to manage multiple emails at once with lots of customization. You can se
 ### PSA
 
 - We will not provide support for the self-hosting of this code.
-- We will not provide support for the personal development of this code.
 
 **Techstack**:
 
@@ -47,5 +46,4 @@ Project to manage multiple emails at once with lots of customization. You can se
 Here are some links that are associated with MultiEmail:
 
 - [Discord](https://discord.gg/gkvCYzRKEB 'Link to the official Discord Server.')
-- [Twitter](https://twitter.com/multiemail 'Link to the official Twitter.')
 - [Website](https://multiemail.us/ 'Link to the official Website.')
