@@ -36,7 +36,7 @@ Project to manage multiple emails at once with lots of customization. You can se
 **Tech Stack**:
 
 - [ExpressJS](https://expressjs.com/)
-- [Mongoose / typegoose](https://typegoose.github.io/typegoose/)
+- [Mongoose / Typegoose](https://typegoose.github.io/typegoose/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
