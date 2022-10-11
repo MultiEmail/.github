@@ -23,7 +23,7 @@
 
 ## Info
 
-Project to manage multiple emails at once with lots of customization. You can send and receive emails. Desktop notifications can be modified. I also want to eventually make a mobile version of this app so that the desktop and mobile versions can communicate.
+Project to manage multiple emails at once with lots of customization. You can send and receive emails. Desktop notifications can be modified. We also want to eventually make a mobile version of this app so that the desktop and mobile versions can communicate.
 
 ### Additional features:
 
@@ -31,15 +31,15 @@ Project to manage multiple emails at once with lots of customization. You can se
 
 ### PSA
 
-- We will not provide support for the self-hosting of this code.
+- We will NOT provide support for the self-hosting of this code.
 
-**Techstack**:
+**Tech Stack**:
 
-- [Expressjs](https://expressjs.com/)
+- [ExpressJS](https://expressjs.com/)
 - [Mongoose / typegoose](https://typegoose.github.io/typegoose/)
-- [Typescript](https://www.typescriptlang.org/docs/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
 - [React](https://reactjs.org/)
-- [Tailwind css](https://tailwindcss.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Links
 
