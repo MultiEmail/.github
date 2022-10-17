@@ -31,7 +31,7 @@ Project to manage multiple emails at once with lots of customization. You can se
 
 ### PSA
 
-- We will NOT provide support for the self-hosting of this code.
+- We will NOT provide support for the self-hosting of this code, however you can ask questions in our discord server and report issues in the GitHub issues page.
 
 **Tech Stack**:
 
